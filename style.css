@@ -1,0 +1,57 @@
+.contenedor{
+    width: 900px;
+    height: 820px;
+    margin: 0 auto;
+    background-color: rgb(206, 202, 202);
+}
+.nav-top{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(76, 173, 173); 
+    gap: 15px; 
+    justify-content: space-around;    
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.octocat img {
+    height: 200px; 
+    width: auto;
+}
+.title{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    color:rgb(78, 78, 77);
+}
+.nav-top2{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(207, 165, 212); 
+    gap: 15px; 
+    justify-content: space-evenly;    
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav-top3{
+    display:flex;
+    flex-direction: row;
+    background-color: white; 
+    gap: 15px; 
+    justify-content: space-around;    
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    color:rgb(78, 78, 77);
+    margin-top: 15px;
+}
